@@ -17,7 +17,7 @@ implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
 # Android MVC Architecture 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/10658016/66260485-dd1d0a00-e7dc-11e9-9f31-bee1201edf47.png?raw=true" alt="Home Page" width="300"/>
+  <img src="https://user-images.githubusercontent.com/10658016/66260485-dd1d0a00-e7dc-11e9-9f31-bee1201edf47.png?raw=true" alt="Home Page" width="500"/>
 </p>
 
 
