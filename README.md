@@ -21,7 +21,7 @@ implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
 </p>
 
 
-* Model — the data layer, responsible for managing the business logic and handling network or database API.
+* Model - the data layer, responsible for managing the business logic and handling network or database API.
 * View — the UI layer — a visualisation of the data from the Model.
 * Controller — the logic layer, gets notified of the user’s behavior and updates the Model as needed.
 
